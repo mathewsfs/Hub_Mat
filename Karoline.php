@@ -70,7 +70,6 @@
     <div class="container">
         <h1>Parabéns Karoline!</h1>
         <p>Por ter vendido todos os Donuts, Eu sei que você vai fazer muito sucesso, e que em breve vai conseguir fazer a sua lojinha, sei que não vai ser fácil, mas você vai conseguir, você é capaz.</p>
-        
     </div>
 </body>
 </html>
